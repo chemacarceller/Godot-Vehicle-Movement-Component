@@ -1,4 +1,4 @@
-# GODOT-Vehicle-Movement-Component
+# Godot-Vehicle-Movement-Component
 
 This is the development of a movement component designed to be attached to a vehicle, whether it is an aircraft vehicle or a wheeled vehicle
 
